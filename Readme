@@ -1,0 +1,10 @@
+# Machine Learning Programming Exercises.
+
+Stanford's Machine Learning course on Coursera uses the Octave programming language.
+This is a Python port of the programming exercises using ipython notebooks.
+
+---
+
+**Mini note:** I am not affiliated with Stanford University and don't know how the 
+licencing thing is supposed to work for this. I shall be writing to them when the 
+port is complete to check if this can stay here.
