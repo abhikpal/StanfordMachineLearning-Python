@@ -1,2 +1,6 @@
 *.pyc
 *~
+*.aux
+*.log
+*.syntex.gz
+.ipynb_checkpoints/*
